@@ -1,6 +1,6 @@
 # Software-Defect-Prediction
 ### Motivation
-It can be useful to ensure software quality as it tries to predicts defects of the modules of the software.
+It can be useful to ensure software quality as it tries to predict defects of the modules of the software.
 
 ### Methadology
 
