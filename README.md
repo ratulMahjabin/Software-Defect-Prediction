@@ -4,7 +4,7 @@ It can be useful to ensure software quality as it tries to predict defects of th
 
 ### Methadology
 
-In this project some supervised machine learning techniques were used including **ANN**, **CNN**, **SVM**, **XGBoost**, **Decision Tree**, **Naive Bayes** to train a robust model to predict defects of the softwares. After fetching the results from the above techniques, we combine them through **Logistic Regression** and get the final output.
+In this project some supervised machine learning techniques were used including **ANN**, **CNN**, **SVM**, **XGBoost**, **Decision Tree**, **Random Forest** to train a robust model to predict defects of the softwares. After fetching the results from the above techniques, we combine them through **Logistic Regression** and get the final output.
 
 ### Dataset
 
